@@ -1,2 +1,3 @@
-# site-teste
- Site de Teste para o GitHub
+# Teste para aula de Github
+
+Professor Júnior Gonçalves
